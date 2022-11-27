@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+# Projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Various projects for practice that are too small for multiple repositories
 
-## Available Scripts
+## Typing Test
 
-In the project directory, you can run:
+### `functionality: Early development`
 
-### `npm start`
+Gives the user the ability to test their typing speed using randomized prompts and challenge other users scores.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Draw Circles
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `functionality: Finished`
 
-### `npm test`
+Users can draw circles on the screen anywhere and can undo circles made as well as redo circles that were undone.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Future plans: More shape options, change background color, toggle borders, erase shape mode, simple styling
 
-### `npm run build`
+## Dummy Login Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## `functionality: Finished`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+A login page that checks for a email and the correct password. Only password that works: "password123". Any email works.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Future plans: sign-up page, and attach app to database for real logins
 
-### `npm run eject`
+## MAD LIBS
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Users input words and are displayed a story including those words. Users can also view all their stories created.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Future plans: add more story options, add styling
