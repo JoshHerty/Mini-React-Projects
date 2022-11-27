@@ -18,7 +18,7 @@ Users can draw circles on the screen anywhere and can undo circles made as well 
 
 ## Dummy Login Page
 
-## `functionality: Finished`
+### `functionality: Finished`
 
 A login page that checks for a email and the correct password. Only password that works: "password123". Any email works.
 
